@@ -1,0 +1,23 @@
+_repo: Firebrands_55684
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Martin, Frank E.
+    gutenberg_agent_id: '48450'
+    url: http://www.gutenberg.org/2009/agents/48450
+  - agent_name: Davis, George M.
+    gutenberg_agent_id: '48451'
+    url: http://www.gutenberg.org/2009/agents/48451
+description: ''
+gutenberg_issued: '2017-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Firebrands
+url: http://www.gutenberg.org/ebooks/55684
